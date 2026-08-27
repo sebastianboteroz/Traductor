@@ -1,7 +1,7 @@
 
 streamlit
 gTTS==2.2.2
-googletrans==3.1.0a0
+googletrans==4.0.0rc1
 
 Jinja2 >=2.9
 contourpy >=1
