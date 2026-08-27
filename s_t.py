@@ -101,7 +101,7 @@ if result:
     
     out_lang = st.selectbox(
         "Selecciona el lenguaje de salida",
-        ("Inglés", "Español", "Bengali", "Coreano", "Mandarín", "Japonés, "Francés", "Alemán""),
+        ("Inglés", "Español", "Bengali", "Coreano", "Mandarín", "Japonés, "Francés", "Alemán"),
     )
     if out_lang == "Inglés":
         output_language = "en"
